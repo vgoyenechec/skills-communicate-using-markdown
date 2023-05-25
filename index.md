@@ -6,3 +6,6 @@
 
 1. This is a numbered list
 2. this too
+
+### This is how you put an image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
