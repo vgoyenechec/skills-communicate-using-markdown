@@ -9,3 +9,10 @@
 
 ### This is how you put an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### And this is how you put code snippets!
+```
+$ npm install
+$ npm start
+// that's how you start a react app 
+```
